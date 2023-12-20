@@ -1,4 +1,4 @@
-### Hi there 👋
+### App simples para calculo de gasto em viagem com gasolina. 
 
 <img height="600em" src="" />
 
