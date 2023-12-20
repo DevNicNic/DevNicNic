@@ -1,4 +1,4 @@
-### App simples para calculo de gasto em viagem com gasolina. 
+### App simples para cálculo de gasto em viagem com combustível. ###
 
 <img height="600em" src="" />
 
