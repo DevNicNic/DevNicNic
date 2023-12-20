@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!--
-**DevNicNic
-/DevNicNic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitH![videoRapido](https://github.com/DevNicNic/DevNicNic/assets/141369022/417d712b-fd75-4af5-a7c5-6b8ceeb720f5)
+**DevNicNic/DevNicNic**
+is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitH![videoRapido](https://github.com/DevNicNic/DevNicNic/assets/141369022/417d712b-fd75-4af5-a7c5-6b8ceeb720f5)
 ub profile.
 
 Here are some ideas to get you started:
