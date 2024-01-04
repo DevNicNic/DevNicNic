@@ -15,7 +15,7 @@
 <div align="center">
   <img width="300" src="https://github.com/DevNicNic/DevNicNic/assets/141369022/6b894ff1-e4c2-4b3b-b983-ddfbbe4598ab" />
 </div>
-<p>App  simples de cálculo com gasto de conbustível em viagem.</p>
+<p>App  simples de cálculo com gasto de combustível em viagem.</p>
 
 
 
