@@ -1,18 +1,22 @@
+<p>App  simples de frases motivacionais</p>
+<h2 align="center"> 
+<a href="https://github.com/DevNicNic/Motivation">Motivation</a>
+</h2>
+<div align="center">
+  <img width="300" src="https://github.com/DevNicNic/DevNicNic/assets/141369022/76bdb262-746e-471a-8f9d-e0be54ff8170" />
+</div>
 
 
 
 
 
 
-### App  simples de frases motivacionais ###
 
 
 
 
 
-<p align="center">
-  <img width="300" src="https://github.com/DevNicNic/DevNicNic/assets/141369022/76bdb262-746e-471a-8f9d-e0be54ff8170" />
-<p/>
+
 
 
 ### App simples de cálculo com gasto de combutível em viagem .
