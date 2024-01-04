@@ -10,7 +10,7 @@
 
 
 <h2 align="center"> 
-<a href="https://https://github.com/DevNicNic/TravelExpense">TravelExpense</a>
+<a href="https://github.com/DevNicNic/TravelExpense">TravelExpense</a>
 </h2>
 <div align="center">
   <img width="300" src="https://github.com/DevNicNic/DevNicNic/assets/141369022/6b894ff1-e4c2-4b3b-b983-ddfbbe4598ab" />
