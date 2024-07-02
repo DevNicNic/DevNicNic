@@ -20,10 +20,10 @@
 
 
 <h2 align="center"> 
-<a href="https://https://github.com/DevNicNic/AluveryAppInCreation">AluveryApp</a>
+<a href="https://github.com/DevNicNic/AluveryAppInCreation">AluveryApp</a>
 </h2>
 <div align="center">
-  <img width="300" src="https://https://https://github.com/DevNicNic/DevNicNic/commit/317ca20061a8fbd90021dd0d80bb4bcefbcab76d" />
+  <img width="300" src="https://github.com/DevNicNic/DevNicNic/commit/317ca20061a8fbd90021dd0d80bb4bcefbcab76d" />
 </div>
 <p>Este aplicativo demonstra a utilização do Jetpack Compose para criar interfaces estéticas e animações, desenvolvido como um projeto de aprendizado.</p>
 
