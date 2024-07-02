@@ -1,3 +1,12 @@
+## Olá Dev, DevNicNic Aqui! 👋
+
+Seja bem-vindo ao meu perfil! 🚀
+
+-  Estou focada em aprender Kotlin e Desenvolvimento Android Nativo no Android Studio.
+-  Em busca de novas oportunidades como Desenvolvedora Android.
+
+### Fique a vontade e vem conhecer um pouco do que eu tenho estudado.
+
 
 <h2 align="center"> 
 <a href="https://github.com/DevNicNic/Motivation">Motivation</a>
