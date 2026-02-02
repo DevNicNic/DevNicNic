@@ -1,11 +1,17 @@
 ## Olá Dev, DevNicNic Aqui! 👋
 
-Seja bem-vindo ao meu perfil! 🚀
+Seja bem-vindo(a) ao meu perfil 🚀
 
--  Estou focada em aprender Kotlin e Desenvolvimento Android Nativo no Android Studio.
--  Em busca de novas oportunidades como Desenvolvedora Android.
+Sou desenvolvedora Android com foco em aplicações nativas utilizando Kotlin.
+Aqui você vai encontrar projetos voltados para estudo e prática de boas
+práticas no desenvolvimento Android.
 
-### Fique a vontade e vem conhecer um pouco do que eu tenho estudado.
+🔹 Kotlin | Android Studio  
+🔹 MVVM | POO | Coroutines  
+🔹 Projetos focados em lógica, arquitetura e UI
+
+
+### Fique a vontade para explorar os reposiórios.
 
 
 <h2 align="center"> 
