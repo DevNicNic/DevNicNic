@@ -11,7 +11,7 @@ práticas no desenvolvimento Android.
 🔹 Projetos focados em lógica, arquitetura e UI
 
 
-### Fique a vontade para explorar os reposiórios.
+### Fique a vontade para explorar os repositórios.
 
 
 <h2 align="center"> 
